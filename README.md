@@ -1,4 +1,4 @@
-- 👋 Hi, I’m maxdash
+- 👋 Hi, I’m ashish
 - 👀 I’m interested in  dev
 - 🌱 I’m currently learning ...
 -
