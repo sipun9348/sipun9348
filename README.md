@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ashish
-- 👀 I’m interested in  dev
+- 👀 I’m noob dev
 - 🌱 I’m currently learning ...
 -
 - 📫 How to reach me ..https://t.me/snoopinggarbage
